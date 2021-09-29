@@ -1,4 +1,5 @@
-<p style="text-align:center; font-size: 50px, font-weight: bold;">Hello, My Name is YongSeung, Yu 👋</p>
+<h1 align="center" color="green">Hello, My Name is YongSeung, Yu 👋</h1>
+<h3 align="center" color="lightgreen">I'm Student and Studying</h3>
 
 <!--
 **dydtmd6801/dydtmd6801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
